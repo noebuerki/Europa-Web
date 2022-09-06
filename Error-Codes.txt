@@ -1,0 +1,10 @@
+1 - Ein unbekannter Fehler ist aufgetreten
+2 - Dieser Benutzername ist ungültig
+3 - Dieser Benutzer ist nicht vorhanden
+4 - Dieser Benutzername ist bereits vergeben
+5 - Diese E-Mail ist ungültig
+6 - Dieses Passwort ist ungültig
+7 - Das eingegebene Passwort ist falsch
+8 - Die beiden Passwörter stimmen nicht überein
+9 - Dein Benutzername oder Passwort ist falsch
+10 - Du verfügst nicht über die nötigen Rechte, um diese Seite zu besuchen
